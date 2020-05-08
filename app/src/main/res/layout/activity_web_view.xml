@@ -19,7 +19,7 @@
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:id="@+id/loaderImage"
-        android:src="@drawable/ImageNameHere"
+        android:src="@drawable/alrich"
         ></ImageView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
