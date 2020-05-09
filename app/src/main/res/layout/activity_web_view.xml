@@ -20,6 +20,10 @@
         android:layout_height="120dp"
         android:id="@+id/loaderImage"
         android:src="@drawable/alrich"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
         ></ImageView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
